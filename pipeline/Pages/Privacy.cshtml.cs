@@ -10,6 +10,7 @@ namespace pipeline.Pages
 {
     public class PrivacyModel : PageModel
     {
+    //comment
         private readonly ILogger<PrivacyModel> _logger;
 
         public PrivacyModel(ILogger<PrivacyModel> logger)
